@@ -53,29 +53,41 @@ With a goal-oriented approach, strong work ethic, and the ability to thrive unde
 
 ## Technical Skills
 
-**Programming & Systems**
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### Programming & Systems
 - C++
 - Python
 - MATLAB
 - RISC-V Assembly
 - Verilog
 
-**Robotics & Embedded**
+</td>
+
+<td valign="top" width="33%">
+
+### Robotics & Embedded
 - ROS
 - Circuit Design
 - Arduino
-
-**Networking & Security**
+- Autonomous Systems
 - Packet Tracer
-- BGP Implementation
-- Wireshark
-- Nmap
 
-**Tools & Platforms**
+</td>
+
+<td valign="top" width="33%">
+
+### Tools & Platforms
 - Docker
 - Linux
 - Qt
 - MySQL
+
+</td>
+</tr>
+</table>
 
 ---
 
