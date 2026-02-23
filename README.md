@@ -6,9 +6,9 @@ An ambitious and passionate Computer Engineering senior at Habib University with
 <p align="center">
 I am driven by curiosity and a passion for exploring new horizons in technology. Eager to acquire knowledge and real-world experience, I continuously strive to embrace cutting-edge tools and systems that enhance my technical abilities. 
 
-I’m particularly drawn to cybersecurity, robotics, automation, artificial intelligence, and data-driven systems — not just from a theoretical standpoint, but in understanding how these domains solve real-life challenges. My analytical mindset and problem-solving skills push me to tackle complex systems head-on. 
+I’m particularly drawn to cybersecurity, robotics, automation, artificial intelligence, and data-driven systems — not just from a theoretical standpoint, but in understanding how these domains solve real life challenges. My analytical mindset and problem solving skills push me to tackle complex systems head on. 
 
-With a goal-oriented approach, strong work ethic, and the ability to thrive under pressure, I enjoy turning challenging problems into structured, practical solutions.
+With a goal oriented approach, strong work ethic, and the ability to thrive under pressure, I enjoy turning challenging problems into structured, practical solutions.
 </p>
 
 ---
