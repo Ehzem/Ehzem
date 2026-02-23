@@ -4,20 +4,20 @@ An ambitious and passionate Computer Engineering senior at Habib University with
 </h3>
 
 <p align="center">
-I am an enthusiastic Computer Engineering student driven by curiosity and a passion for exploring new horizons in technology. Eager to acquire knowledge and real-world experience, I continuously strive to embrace cutting-edge tools and systems that enhance my technical abilities. 
+I am driven by curiosity and a passion for exploring new horizons in technology. Eager to acquire knowledge and real-world experience, I continuously strive to embrace cutting-edge tools and systems that enhance my technical abilities. 
 
 I’m particularly drawn to cybersecurity, robotics, data science, and artificial intelligence — not just from a theoretical standpoint, but in understanding how these domains solve real-life challenges. My analytical mindset and problem-solving skills push me to tackle complex systems head-on. 
 
 With a goal-oriented approach, strong work ethic, and the ability to thrive under pressure, I enjoy turning challenging problems into structured, practical solutions.
 </p>
 
-- 🔭 I’m currently working on **Autonomous Tow Truck Project**
+- I’m currently working on **Autonomous Tow Truck Project**
 
-- 🌱 I’m currently learning **ROS2, Docker, Autoware, Linux, OWASP ZAP, Burp Suite, Microsoft Threat Modeling Tool, Metasploit, Wireshark, tcpdump, and Nmap**
+- I’m currently learning **ROS2, Docker, Autoware, Linux, OWASP ZAP, Burp Suite, Microsoft Threat Modeling Tool, Metasploit, Wireshark, tcpdump, and Nmap**
 
-- 👯 I’m looking to collaborate on **projects involving cybersecurity, robotics, and automation**
+- I’m looking to collaborate on **projects involving cybersecurity, robotics, and automation**
 
-- 📫 How to reach me: **ehzem.sheikh@gmail.com**
+- How to reach me: **ehzem.sheikh@gmail.com**
 
 - 📄 Know about my experiences:  
   [www.linkedin.com/in/ehzem-farhan-sheikh-666496289](https://www.linkedin.com/in/ehzem-farhan-sheikh-666496289)
