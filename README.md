@@ -13,8 +13,6 @@ With a goal-oriented approach, strong work ethic, and the ability to thrive unde
 
 ---
 
-## Current Focus
-
 - Currently working on **Autonomous Tow Truck Project**
 - Learning **ROS2, Docker, Autoware, Linux, OWASP ZAP, Burp Suite, Microsoft Threat Modeling Tool, Metasploit, Wireshark, tcpdump, and Nmap**
 - Open to collaborate on **cybersecurity, robotics, and automation projects**
