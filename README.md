@@ -73,7 +73,6 @@ With a goal oriented approach, strong work ethic, and the ability to thrive unde
 - Circuit Design
 - Arduino
 - Autonomous Systems
-- Packet Tracer
 
 </td>
 
@@ -84,6 +83,14 @@ With a goal oriented approach, strong work ethic, and the ability to thrive unde
 - Linux
 - Qt
 - MySQL
+
+</td>
+
+<td valign="top" width="33%">
+
+### Cybersecurity
+- Microsoft Threat Modelling Tool
+- Packet Tracer
 
 </td>
 </tr>
